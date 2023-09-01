@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cheongnicole
 - 👀 I’m interested in coding, yoga, ballet, fitness
-- 🌱 I’m currently learning C in the 42 Singapore June 2023 Piscine
+- 🌱 I’ve completed the 42 Singapore June 2023 Piscine
+- 🌱 I’m starting to venture into cybersecurity
 - 💞️ I’m looking to collaborate on any coding assignments
 - 📫 How to reach me: cheongnicole@gmail.com
 
